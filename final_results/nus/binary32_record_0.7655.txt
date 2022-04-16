@@ -1,0 +1,3 @@
+>>> Image to Text MAP = 0.7629000847760813
+>>> Text to Image MAP = 0.7681994294247413
+>>> Average MAP = 0.7655497571004113
