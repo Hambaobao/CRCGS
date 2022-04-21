@@ -40,14 +40,16 @@ tqdm==4.61.2
 
 
 
+## Data
+
++ Processed data will soon be available at Google Drive;
++ Original data are from:
+	+ [MS COCO](https://cocodataset.org/#download);
+	+ [MIRFLICKR-25K](http://press.liacs.nl/mirflickr/mirdownload.html);
+	+ [NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html);
+
+
+
 ## Checkpoints
 
-+ Our model checkpoints could be download from [Google Drive](https://drive.google.com/drive/folders/1Bnpb7Jpbv7hq0mE5iJAV3WxQDcnPQ_wz?usp=sharing);
-
-
-
-## Datasets
-
-+ [MS COCO](https://cocodataset.org/#download);
-+ [MIRFLICKR-25K](http://press.liacs.nl/mirflickr/mirdownload.html);
-+ [NUS-WIDE](https://lms.comp.nus.edu.sg/wp-content/uploads/2019/research/nuswide/NUS-WIDE.html);
++ Model checkpoints could be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Bnpb7Jpbv7hq0mE5iJAV3WxQDcnPQ_wz?usp=sharing);
